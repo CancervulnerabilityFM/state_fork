@@ -12,3 +12,10 @@ notebooks/
 *.slurm
 temp
 /wandb/
+data/pbmc3k/pbmc3k_raw.h5ad
+data/pbmc3k/pbmc3k_state.h5ad
+models/SE-600M/protein_embeddings.pt
+models/SE-600M/se600m_epoch16.ckpt
+data/pbmc3k_raw.h5ad
+data/pbmc3k/pbmc3k_se.npy
+models/SE-600M/model.safetensors
