@@ -431,3 +431,9 @@ Inf:   0
 | Cell output in our test | 3072-D | 2058-D saved output |
 | Base gene embedding | supported | supported |
 | Contextual gene representation | gene-level model output available | still to verify precisely |
+
+
+Embedding	Status	Output
+Cell embedding	Done	2048-D
+Static gene embedding	Done	2048-D
+Contextual gene/token embedding	Done	(1, 2047, 2048)
