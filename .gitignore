@@ -7,7 +7,6 @@ vci_job_*
 /log/
 uv.lock
 /tmp/
-notebooks/
 *.sif
 *.slurm
 temp
